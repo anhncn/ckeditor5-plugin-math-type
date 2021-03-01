@@ -1,0 +1,22 @@
+{
+  "name": "ckeditor5-build-classic-plugin-math-type-nnanh3-misa",
+  "version": "1.0.0",
+  "description": "Thư viện thay thế cho ckeditor5-build-classic đã có plugin mathtpye",
+  "main": "build/ckeditor.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhncn/ckeditor5-plugin-math-type.git"
+  },
+  "keywords": [
+    "nnanh3",
+    "qlth",
+    "ckeditor5",
+    "math-type"
+  ],
+  "author": "nnanh3 from Misa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhncn/ckeditor5-plugin-math-type/issues"
+  },
+  "homepage": "https://github.com/anhncn/ckeditor5-plugin-math-type#readme"
+}
