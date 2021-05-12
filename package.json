@@ -1,6 +1,6 @@
 {
   "name": "ckeditor5-build-classic-plugin-math-type-nnanh3-misa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Thư viện thay thế cho ckeditor5-build-classic đã có plugin mathtpye",
   "main": "build/ckeditor.js",
   "repository": {
